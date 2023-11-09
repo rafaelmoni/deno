@@ -2,8 +2,6 @@
 10:43 During your absence you trained for 12 hours.
 10:43 Your Distance Fighting skill changed from level 106 (with 61.84% progress towards level 107) to level 106 (with 82.87% progress towards level 107)
 10:43 Your Shielding skill changed from level 88 (with 9.25% progress towards level 89) to level 88 (with 79.42% progress towards level 89)
-10:43 Today's boosted creature: Skeleton Elite Warrior
-Today's boosted boss: Sir Baeloc
 */
 
 const before = 82.87;
